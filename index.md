@@ -1,6 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Josh Schriger's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/joshschriger/joshschriger.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Getting **familiar** with *GitHub Markdown*
+
+###Things I've done so far
+* created my own repository
+* used GitHub’s Pull Request workflow to *create branches, commit changes, and open pull requests.*
+* created my own website
+* messed around with Markdown
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
